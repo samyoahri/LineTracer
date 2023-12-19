@@ -1,4 +1,4 @@
-<img width="80%" src="https://github.com/samyoahri/LineTracer/assets/121100022/0132765a-7075-4fed-88b6-a918ad50d0d2"/>
+영상링크: <img width="80%" src="https://github.com/samyoahri/LineTracer/assets/121100022/0132765a-7075-4fed-88b6-a918ad50d0d2"/>
 
 # 1. 라인트레이싱
 라인트레이싱을 하는 RC카 제작
